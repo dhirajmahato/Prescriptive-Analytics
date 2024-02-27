@@ -5,4 +5,12 @@ The difference between decisions arrived at using descriptive/predictive analyti
 Operations research techniques such as **linear programming, integer programming, goal programming, non-linear programming, and meta-heuristics** are used for prescribing an optimal solution to a problem. A few big data problems originated from optimization problems. For example, the travelling salesman problem (TSP) is one of the most difficult problems which is encountered by organizations such as online retailers, logistic service providers, and even electronic parts manufacturers. Prescriptive analytics models attempt to solve complex optimization problems of the modern era.
 
 
-## WEEK 1 : Introduction
+## WEEK 1: Introduction
+CHECK Week 1 Introduction to topics pdf
+Three common outcomes that can arise when solving linear programming problems in Prescriptive Analytics are the concepts of infeasibility, unboundedness, and multiple optimal solutions.
+## WEEK 2:
+CHECK Week 2 Introduction to topics pdf
+## WEEK 3:
+CHECK Week 3 Introduction to topics pdf
+## WEEK 4:
+CHECK Week 4 Introduction to topics pdf
