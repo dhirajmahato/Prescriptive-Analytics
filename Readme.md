@@ -6,12 +6,15 @@ Operations research techniques such as **linear programming, integer programming
 
 
 ## WEEK 1: Introduction
-Three common outcomes that can arise when solving linear programming problems in Prescriptive Analytics are the concepts of 
+Three common outcomes concepts
 - infeasibility,
 - unboundedness, and
 - multiple optimal solutions.
 ## WEEK 2:
-CHECK Week 2 Introduction to topics pdf
+- Linear Programming
+- Sensitivity Analysis
+- Primal and Dual Problems
+- Simplex Algorithm
 ## WEEK 3:
 - Assignment Problem
 - Shortest Path Problem
