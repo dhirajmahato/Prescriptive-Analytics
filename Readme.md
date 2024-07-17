@@ -17,4 +17,4 @@ CHECK Week 2 Introduction to topics pdf
 ## WEEK 4:
 - 
 ## WEEK 5:
-
+- Multi Criteria Optimization
