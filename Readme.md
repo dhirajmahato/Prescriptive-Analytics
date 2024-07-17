@@ -11,10 +11,10 @@ Three common outcomes that can arise when solving linear programming problems in
 ## WEEK 2:
 CHECK Week 2 Introduction to topics pdf
 ## WEEK 3:
-CHECK Week 3 Introduction to topics pdf
-## WEEK 4:
-- 
-## WEEK 5:
 - Assignment Problem
 - Shortest Path Problem
 - Multi Period Problem
+## WEEK 4:
+- 
+## WEEK 5:
+
