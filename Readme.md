@@ -13,4 +13,8 @@ CHECK Week 2 Introduction to topics pdf
 ## WEEK 3:
 CHECK Week 3 Introduction to topics pdf
 ## WEEK 4:
-CHECK Week 4 Introduction to topics pdf
+- 
+## WEEK 5:
+- Assignment Problem
+- Shortest Path Problem
+- Multi Period Problem
