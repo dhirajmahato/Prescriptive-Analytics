@@ -15,6 +15,9 @@ CHECK Week 2 Introduction to topics pdf
 - Shortest Path Problem
 - Multi Period Problem
 ## WEEK 4:
-- 
+- Integer Programming
+- Mixed Integer
+- IP ->Knapsack Problem, Modelling possibilities
+- General Integers
 ## WEEK 5:
 - Multi Criteria Optimization
